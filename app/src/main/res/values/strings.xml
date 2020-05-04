@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pakultie</string>
+    <string name="Input_characters_letters">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@#$_-+()/*"':;!?~`|•√π÷×¶∆£¢€¥^°={}\%©®™✓[] ,.</string>
+</resources>
